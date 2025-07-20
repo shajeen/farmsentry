@@ -55,7 +55,7 @@ farmsentry/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/shajeen/farmsentry
 cd farmsentry
 ```
 
@@ -229,5 +229,3 @@ For questions or issues, please:
 ---
 
 **Happy Farming! 🌾**
-
-This is an added line for demonstration purposes.
