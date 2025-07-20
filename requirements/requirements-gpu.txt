@@ -1,0 +1,12 @@
+# FarmSentry GPU Requirements
+# Base requirements
+ultralytics==8.0.196
+opencv-python-headless==4.8.0.76
+numpy==1.26.0
+
+# PyTorch with CUDA 11.8 support (compatible with YOLOv8, avoids torch 2.6 errors)
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+
+--extra-index-url https://download.pytorch.org/whl/cu118

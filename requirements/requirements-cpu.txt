@@ -1,0 +1,7 @@
+# FarmSentry CPU Requirements
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+--extra-index-url https://download.pytorch.org/whl/cpu
